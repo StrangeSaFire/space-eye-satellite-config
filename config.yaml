@@ -10,7 +10,7 @@ satellites:
         name: Full Disk
         imageSources:
           - id: 0
-            url: https://imagery.spaceeye.app/goes-16/full-disk/thumbnail.jpg
+            url: https://imagery.spaceeye.app/goes-19/full-disk/thumbnail.jpg
             estimatedSize: 19.7K
             updateInterval: 1200
             dimensions: [270, 270]
@@ -18,21 +18,21 @@ satellites:
             defaultScaling: fit
 
           - id: 1
-            url: https://imagery.spaceeye.app/goes-16/full-disk/2k.jpg
+            url: https://imagery.spaceeye.app/goes-19/full-disk/2k.jpg
             estimatedSize: 393K
             updateInterval: 1200
             dimensions: [1440, 1440]
             defaultScaling: fit
 
           - id: 2
-            url: https://imagery.spaceeye.app/goes-16/full-disk/5k.jpg
+            url: https://imagery.spaceeye.app/goes-19/full-disk/5k.jpg
             estimatedSize: 1.3M
             updateInterval: 1200
             dimensions: [2880, 2880]
             defaultScaling: fit
 
           - id: 3
-            url: https://imagery.spaceeye.app/goes-16/full-disk/8k.jpg
+            url: https://imagery.spaceeye.app/goes-19/full-disk/8k.jpg
             estimatedSize: 2.6M
             updateInterval: 1200
             dimensions: [4320, 4320]
@@ -42,7 +42,7 @@ satellites:
         name: Continental US
         imageSources:
           - id: 4
-            url: https://imagery.spaceeye.app/goes-16/continental-us/thumbnail.jpg
+            url: https://imagery.spaceeye.app/goes-19/continental-us/thumbnail.jpg
             estimatedSize: 38K
             updateInterval: 1200
             dimensions: [450, 270]
@@ -50,21 +50,21 @@ satellites:
             defaultScaling: fill
 
           - id: 5
-            url: https://imagery.spaceeye.app/goes-16/continental-us/2k.jpg
+            url: https://imagery.spaceeye.app/goes-19/continental-us/2k.jpg
             estimatedSize: 629K
             updateInterval: 1200
             dimensions: [2400, 1440]
             defaultScaling: fill
 
           - id: 6
-            url: https://imagery.spaceeye.app/goes-16/continental-us/5k.jpg
+            url: https://imagery.spaceeye.app/goes-19/continental-us/5k.jpg
             estimatedSize: 1.8M
             updateInterval: 1200
             dimensions: [4800, 2880]
             defaultScaling: fill
 
           - id: 7
-            url: https://imagery.spaceeye.app/goes-16/continental-us/8k.jpg
+            url: https://imagery.spaceeye.app/goes-19/continental-us/8k.jpg
             estimatedSize: 3.4M
             updateInterval: 1200
             dimensions: [7200, 4320]
@@ -74,7 +74,7 @@ satellites:
         name: Tropical Atlantic
         imageSources:
           - id: 8
-            url: https://imagery.spaceeye.app/goes-16/tropical-atlantic/thumbnail.jpg
+            url: https://imagery.spaceeye.app/goes-19/tropical-atlantic/thumbnail.jpg
             estimatedSize: 32.4K
             updateInterval: 1200
             dimensions: [450, 270]
@@ -82,21 +82,21 @@ satellites:
             defaultScaling: fill
 
           - id: 9
-            url: https://imagery.spaceeye.app/goes-16/tropical-atlantic/2k.jpg
+            url: https://imagery.spaceeye.app/goes-19/tropical-atlantic/2k.jpg
             estimatedSize: 669.1K
             updateInterval: 1200
             dimensions: [2400, 1440]
             defaultScaling: fill
 
           - id: 10
-            url: https://imagery.spaceeye.app/goes-16/tropical-atlantic/5k.jpg
+            url: https://imagery.spaceeye.app/goes-19/tropical-atlantic/5k.jpg
             estimatedSize: 2M
             updateInterval: 1200
             dimensions: [4800, 2880]
             defaultScaling: fill
 
           - id: 11
-            url: https://imagery.spaceeye.app/goes-16/tropical-atlantic/8k.jpg
+            url: https://imagery.spaceeye.app/goes-19/tropical-atlantic/8k.jpg
             estimatedSize: 4.2M
             updateInterval: 1200
             dimensions: [7200, 4320]
@@ -106,7 +106,7 @@ satellites:
         name: Northern South America
         imageSources:
           - id: 12
-            url: https://imagery.spaceeye.app/goes-16/northern-south-america/thumbnail.jpg
+            url: https://imagery.spaceeye.app/goes-19/northern-south-america/thumbnail.jpg
             estimatedSize: 33.5K
             updateInterval: 1200
             dimensions: [450, 270]
@@ -114,21 +114,21 @@ satellites:
             defaultScaling: fill
 
           - id: 13
-            url: https://imagery.spaceeye.app/goes-16/northern-south-america/2k.jpg
+            url: https://imagery.spaceeye.app/goes-19/northern-south-america/2k.jpg
             estimatedSize: 713.9K
             updateInterval: 1200
             dimensions: [2400, 1440]
             defaultScaling: fill
 
           - id: 14
-            url: https://imagery.spaceeye.app/goes-16/northern-south-america/5k.jpg
+            url: https://imagery.spaceeye.app/goes-19/northern-south-america/5k.jpg
             estimatedSize: 2.1M
             updateInterval: 1200
             dimensions: [4800, 2880]
             defaultScaling: fill
 
           - id: 15
-            url: https://imagery.spaceeye.app/goes-16/northern-south-america/8k.jpg
+            url: https://imagery.spaceeye.app/goes-19/northern-south-america/8k.jpg
             estimatedSize: 4.7M
             updateInterval: 1200
             dimensions: [7200, 4320]
@@ -138,7 +138,7 @@ satellites:
         name: Southern South America
         imageSources:
           - id: 16
-            url: https://imagery.spaceeye.app/goes-16/southern-south-america/thumbnail.jpg
+            url: https://imagery.spaceeye.app/goes-19/southern-south-america/thumbnail.jpg
             estimatedSize: 25.4K
             updateInterval: 1200
             dimensions: [450, 270]
@@ -146,21 +146,21 @@ satellites:
             defaultScaling: fill
 
           - id: 17
-            url: https://imagery.spaceeye.app/goes-16/southern-south-america/2k.jpg
+            url: https://imagery.spaceeye.app/goes-19/southern-south-america/2k.jpg
             estimatedSize: 515K
             updateInterval: 1200
             dimensions: [2400, 1440]
             defaultScaling: fill
 
           - id: 18
-            url: https://imagery.spaceeye.app/goes-16/southern-south-america/5k.jpg
+            url: https://imagery.spaceeye.app/goes-19/southern-south-america/5k.jpg
             estimatedSize: 1.5M
             updateInterval: 1200
             dimensions: [4800, 2880]
             defaultScaling: fill
 
           - id: 19
-            url: https://imagery.spaceeye.app/goes-16/southern-south-america/8k.jpg
+            url: https://imagery.spaceeye.app/goes-19/southern-south-america/8k.jpg
             estimatedSize: 3.3M
             updateInterval: 1200
             dimensions: [7200, 4320]
